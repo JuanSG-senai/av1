@@ -1,0 +1,77 @@
+body {
+    background-color: #5c6f7e;
+}
+
+
+/* --------------NAVBAR 00 E 01-------------- */
+
+.logo-img {
+    border-radius: 10%;
+}
+
+.nav-link{
+    display: flex;
+    margin-right: 2%;
+    gap: 15%;
+    padding: 0 3%;
+    color: white;
+}
+
+#nav-btn {
+    border: #bbc1cd solid;
+    color: white;
+    padding: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#flex {
+    margin-left: 3%;
+}
+
+#nav00 {
+    background-color: #2d3945;
+}
+
+
+/* --------------SESSÕES DE FILMES-------------- */
+
+.filmes {
+    width: 90%;
+    margin: 0 auto;
+    background-color: #2d3945;
+    padding: 2% 0%;
+    margin-bottom: 2%;
+    border: 5px solid #bbc1cd;
+    border-radius: 5%;
+}
+
+h1 {
+    padding: 2% 4%;
+    color: white;
+}
+
+h3 {
+    margin-left: 8%;
+}
+
+h5 {
+    color: white;
+}
+
+#distribuicao {
+    margin: 1.5% 1.5%;
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+}
+
+
+/* --------------RODAPÉ-------------- */
+
+footer {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    background-color: #2d3945;
+    color: white;
+}

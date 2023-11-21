@@ -1,0 +1,67 @@
+body {
+    background-color: #5c6f7e;
+    color: white;
+}
+
+
+/* --------------NAVBAR-------------- */
+
+.logo-img {
+    border-radius: 10%;
+}
+
+.nav-link{
+    display: flex;
+    margin-right: 2%;
+    gap: 15%;
+    padding: 0 3%;
+    color: white;
+}
+
+#nav-btn {
+    border: #bbc1cd solid;
+    color: white;
+    padding: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#flex {
+    margin-left: 3%;
+}
+
+#nav00 {
+    background-color: #2d3945;
+}
+
+
+/* --------------TEXTO-SOBRE-------------- */
+
+.texto-sobre {
+    width: 90%;
+    margin: 2% auto;
+    background-color: #2d3945;
+    padding: 2% 4%;
+}
+
+h1 {
+    margin-bottom:3%;
+}
+
+h2 {
+    margin-top: 5%;
+}
+
+p {
+    font-size: large;
+}
+
+
+/* --------------RODAPÉ-------------- */
+
+footer {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    background-color: #2d3945;
+    color: white;
+}
